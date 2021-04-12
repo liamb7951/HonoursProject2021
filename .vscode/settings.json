@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        ".expo/web/**": true
+    },
+
+    "emmet.showExpandedAbbreviation": "never",
+    "emmet.excludeLanguages": [
+        "[typescript]",
+        "[typescriptreact]"
+    ],
+
+    "react-native.packager.port": 19000
+}
